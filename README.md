@@ -1,6 +1,3 @@
-## Hi there 👋
-
----
 <div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
 
 <h2> Hey there! I'm Lucas Aguirre <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
@@ -67,9 +64,8 @@ I'm a Telecommunications Engineer working as a DevOps Engineer, passionate about
 ## 📫 How to Reach Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lucas-aguirre99/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-<a href="mailto:lucas.aguirre99@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" /></a>
-<a href="https://discordapp.com/users/LucasAguirre99" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" /></a>
+<a href="https://www.linkedin.com/in/lucas-aguirre-99-ar/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+<a href="mailto:aguirrelucas.unrc@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" /></a>
 </p>
 
 
