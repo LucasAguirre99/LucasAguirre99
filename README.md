@@ -59,8 +59,6 @@ I'm a Telecommunications Engineer working as a DevOps Engineer, passionate about
 
 [![Lucas Aguirre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasAguirre99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/LucasAguirre99/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAguirre99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Lucas Aguirre" /></p>
-
 ## 📫 How to Reach Me
 
 <p align="left">
